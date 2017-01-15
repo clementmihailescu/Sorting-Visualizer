@@ -11,8 +11,8 @@ class Toolbar extends Component {
   componentDidMount() {
     const { generateArray } = this.props;
 
-    generateArray(21);
-    document.getElementById("changeSize").value = 11;
+    generateArray(87);
+    document.getElementById("changeSize").value = 50;
   }
 
   handleClick(algorithm) {
