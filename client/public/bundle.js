@@ -24607,8 +24607,8 @@
 	      var generateArray = this.props.generateArray;
 	
 	
-	      generateArray(21);
-	      document.getElementById("changeSize").value = 11;
+	      generateArray(87);
+	      document.getElementById("changeSize").value = 50;
 	    }
 	  }, {
 	    key: "handleClick",
