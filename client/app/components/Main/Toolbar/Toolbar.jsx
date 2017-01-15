@@ -24,7 +24,7 @@ class Toolbar extends Component {
   handleChange(evt) {
     const { generateArray } = this.props;
 
-    generateArray(Math.floor((parseInt(evt.target.value) + 2) * 1.65));
+    generateArray(Math.floor((parseInt(evt.target.value) + 3) * 1.65));
   }
 
   render() {
@@ -46,7 +46,7 @@ class Toolbar extends Component {
     return (
       <div id="toolbar">
         <div
-          id="generateArray"
+          id={!isRunning ? "generateArray" : "generateArrayX"}
           style={{color: color, cursor: cursor}}
           onClick={!isRunning ? () => generateArray(array.length) : null}>
           Generate New Array
