@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "reduce-reducers@^0.1.0",
+        "scope": null,
+        "escapedName": "reduce-reducers",
+        "name": "reduce-reducers",
+        "rawSpec": "^0.1.0",
+        "spec": ">=0.1.0 <0.2.0",
+        "type": "range"
+      },
+      "/home/clement/Documents/Fullstack_Academy/Projects/Sorting_Algorithms/node_modules/redux-actions"
+    ]
+  ],
+  "_from": "reduce-reducers@>=0.1.0 <0.2.0",
+  "_id": "reduce-reducers@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/reduce-reducers",
+  "_nodeVersion": "5.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/reduce-reducers-0.1.2.tgz_1454442974225_0.548715271288529"
+  },
+  "_npmUser": {
+    "name": "acdlite",
+    "email": "acdlite@me.com"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "reduce-reducers@^0.1.0",
+    "scope": null,
+    "escapedName": "reduce-reducers",
+    "name": "reduce-reducers",
+    "rawSpec": "^0.1.0",
+    "spec": ">=0.1.0 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/redux-actions"
+  ],
+  "_resolved": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.2.tgz",
+  "_shasum": "fa1b4718bc5292a71ddd1e5d839c9bea9770f14b",
+  "_shrinkwrap": null,
+  "_spec": "reduce-reducers@^0.1.0",
+  "_where": "/home/clement/Documents/Fullstack_Academy/Projects/Sorting_Algorithms/node_modules/redux-actions",
+  "author": {
+    "name": "Andrew Clark",
+    "email": "acdlite@me.com"
+  },
+  "bugs": {
+    "url": "https://github.com/acdlite/reduce-reducers/issues"
+  },
+  "dependencies": {},
+  "description": "Reduce multiple reducers into a single reducer",
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "babel-core": "^5.6.15",
+    "babel-eslint": "^4.1.8",
+    "chai": "^3.0.0",
+    "eslint": "^0.24.0",
+    "eslint-config-airbnb": "0.0.6",
+    "mocha": "^2.2.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "fa1b4718bc5292a71ddd1e5d839c9bea9770f14b",
+    "tarball": "https://registry.npmjs.org/reduce-reducers/-/reduce-reducers-0.1.2.tgz"
+  },
+  "gitHead": "2d61f15299e9df92fe28c08530c4b2636fd63aac",
+  "homepage": "https://github.com/acdlite/reduce-reducers",
+  "keywords": [
+    "reduce",
+    "reducers",
+    "functional",
+    "fp",
+    "redux"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "acdlite",
+      "email": "acdlite@me.com"
+    }
+  ],
+  "name": "reduce-reducers",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdlite/reduce-reducers.git"
+  },
+  "scripts": {
+    "prepublish": "make clean build",
+    "test": "make test"
+  },
+  "version": "0.1.2"
+}

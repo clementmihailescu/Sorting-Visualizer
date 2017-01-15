@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "element-resize-event@^2.0.4",
+        "scope": null,
+        "escapedName": "element-resize-event",
+        "name": "element-resize-event",
+        "rawSpec": "^2.0.4",
+        "spec": ">=2.0.4 <3.0.0",
+        "type": "range"
+      },
+      "/home/clement/Documents/Fullstack_Academy/Projects/Sorting_Algorithms/node_modules/react-dimensions"
+    ]
+  ],
+  "_from": "element-resize-event@>=2.0.4 <3.0.0",
+  "_id": "element-resize-event@2.0.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/element-resize-event",
+  "_nodeVersion": "6.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/element-resize-event-2.0.7.tgz_1473701901271_0.6515882853418589"
+  },
+  "_npmUser": {
+    "name": "kylemathews",
+    "email": "mathews.kyle@gmail.com"
+  },
+  "_npmVersion": "3.10.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "element-resize-event@^2.0.4",
+    "scope": null,
+    "escapedName": "element-resize-event",
+    "name": "element-resize-event",
+    "rawSpec": "^2.0.4",
+    "spec": ">=2.0.4 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/react-dimensions"
+  ],
+  "_resolved": "https://registry.npmjs.org/element-resize-event/-/element-resize-event-2.0.7.tgz",
+  "_shasum": "8b63953715967cd2241620245573e79e684e07b0",
+  "_shrinkwrap": null,
+  "_spec": "element-resize-event@^2.0.4",
+  "_where": "/home/clement/Documents/Fullstack_Academy/Projects/Sorting_Algorithms/node_modules/react-dimensions",
+  "author": {
+    "name": "Kyle Mathews",
+    "email": "mathews.kyle@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/element-resize-event/issues"
+  },
+  "dependencies": {},
+  "description": "Polyfill to make it easy to listen for element resize events",
+  "devDependencies": {
+    "browserify": "^8.1.3",
+    "eslint": "^2.10.2",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-plugin-import": "^1.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "8b63953715967cd2241620245573e79e684e07b0",
+    "tarball": "https://registry.npmjs.org/element-resize-event/-/element-resize-event-2.0.7.tgz"
+  },
+  "gitHead": "e84836097e0763fce5215b010af596739325ae65",
+  "homepage": "https://github.com/KyleAMathews/element-resize-event",
+  "keywords": [
+    "event",
+    "resize",
+    "element-query",
+    "element queries"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "kylemathews",
+      "email": "mathews.kyle@gmail.com"
+    }
+  ],
+  "name": "element-resize-event",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleAMathews/element-resize-event.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.7"
+}

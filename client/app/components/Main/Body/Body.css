@@ -1,0 +1,13 @@
+#bodyContainer {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(230, 230, 230);
+  text-align: center;
+}
+
+.arrayElement {
+  padding-top: 7px;
+  font-family: sans-serif;
+  font-weight: 700;
+  display: inline-block;
+}
